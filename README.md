@@ -1,4 +1,4 @@
-# Finding Medical Experts in Twitter
+# A Twitter Healthcare Expert Finder and Analysis Tool
 
 ## Overview
 
